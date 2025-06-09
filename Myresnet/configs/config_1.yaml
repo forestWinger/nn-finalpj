@@ -1,0 +1,4 @@
+"learning_rate": 0.1   # Learning rate for the optimizer
+"momentum": 0.9          # Momentum for the optimizer
+"weight_decay": 0.0005   # Weight decay for regularization
+"num_epochs": 100        # Number of epochs for training
